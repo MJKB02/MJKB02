@@ -1,8 +1,5 @@
 <h1 align="center">✨ Hey there, I'm <span style="color:#ff0054;">𝕁𝔸𝕐𝔻𝕀ℙ</span> 👋✨</h1>
 <h3 align="center">🚀 software Development | Data Analyst | Tech Enthusiast 💻</h3>
-
----
-
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Building+Awesome+Web+Experiences;Lifelong+Learner+and+Problem+Solver!;" alt="Typing SVG" />
 </p>
